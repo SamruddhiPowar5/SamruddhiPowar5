@@ -6,7 +6,6 @@
 ---
 
 ## 🧠 About Me
-## 🧠 About Me
 I am a Master's student in Artificial Intelligence with a strong focus on building practical AI systems using Large Language Models. My work centers on developing real-time AI assistants and Retrieval-Augmented Generation (RAG) pipelines.
 
 I can apply my skills in designing, developing, and deploying intelligent systems to solve real-world problems.
