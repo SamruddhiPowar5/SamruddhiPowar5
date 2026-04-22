@@ -12,9 +12,23 @@ I can apply my skills in designing, developing, and deploying intelligent system
 ---
 
 ## 🔧 Tech Stack
+
+### 💻 Programming
 - Python, JavaScript
-- OpenAI API, LangChain
+
+### 🤖 AI / Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+
+### ⚙️ Tools & Frameworks
+- OpenAI API
+- LangChain
 - Vector Databases (FAISS, Pinecone)
+
+### 🌐 Other
+- REST APIs
+- Git & GitHub
 
 ---
 
