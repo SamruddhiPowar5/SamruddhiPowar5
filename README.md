@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Samruddhi 👋
 
-<!--
-**SamruddhiPowar5/SamruddhiPowar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Applied AI Engineer | LLMs & RAG Systems  
+📍 Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I build intelligent AI systems using Large Language Models, focusing on real-time assistants and retrieval-based applications.
+
+---
+
+## 🔧 Tech Stack
+- Python, JavaScript
+- OpenAI API, LangChain
+- Vector Databases (FAISS, Pinecone)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Realtime AI Assistant
+- LLM agent with tool calling and memory  
+- Real-time web data integration  
+
+### 🔹 RAG Knowledge Assistant
+- Document-based Q&A system  
+- Retrieval-Augmented Generation pipeline  
+
+---
+
+## 📫 Contact
+- Email: samruddhipowar5@gmail.com  
+- LinkedIn: (add link here)
+
+---
+
+⭐ *Check out my repositories below!*
