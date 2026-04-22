@@ -46,7 +46,7 @@ I can apply my skills in designing, developing, and deploying intelligent system
 
 ## 📫 Contact
 - Email: samruddhipowar5@gmail.com  
-- LinkedIn: (add link here)
+
 
 ---
 
